@@ -1,4 +1,4 @@
-package CHAPTER15_COLLECTIONFRAMEWORK.example04_Tree;
+package CHAPTER15_CollectionFramework.example04_Tree;
 
 import java.util.NavigableSet;
 import java.util.TreeSet;

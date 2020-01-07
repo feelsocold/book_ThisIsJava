@@ -1,4 +1,4 @@
-package CHAPTER15_COLLECTIONFRAMEWORK.example02_Set;
+package CHAPTER15_CollectionFramework.example02_Set;
 
 import java.util.HashSet;
 import java.util.Iterator;

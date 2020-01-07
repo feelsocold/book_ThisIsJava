@@ -1,4 +1,4 @@
-package CHAPTER15_COLLECTIONFRAMEWORK.example03_Map;
+package CHAPTER15_CollectionFramework.example03_Map;
 
 public class Student {
 

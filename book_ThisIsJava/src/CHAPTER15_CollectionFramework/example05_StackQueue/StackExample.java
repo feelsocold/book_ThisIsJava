@@ -1,4 +1,4 @@
-package CHAPTER15_COLLECTIONFRAMEWORK.example05_StackQueue;
+package CHAPTER15_CollectionFramework.example05_StackQueue;
 
 import java.util.Stack;
 

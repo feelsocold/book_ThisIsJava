@@ -1,4 +1,4 @@
-package CHAPTER15_COLLECTIONFRAMEWORK.example01_List;
+package CHAPTER15_CollectionFramework.example01_List;
 
 public class Board {
 
